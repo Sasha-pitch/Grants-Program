@@ -1,4 +1,4 @@
-name: Application Accepted
+name: Application 
 on:
   pull_request_target:
     types: [closed]
